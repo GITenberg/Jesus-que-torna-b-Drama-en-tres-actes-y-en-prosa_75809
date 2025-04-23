@@ -1,0 +1,25 @@
+_repo: Jesus-que-torna-b-Drama-en-tres-actes-y-en-prosa_75809
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Guimerà, Àngel
+    gutenberg_agent_id: '58155'
+    url: http://www.gutenberg.org/2009/agents/58155
+description: ''
+gutenberg_issued: '2025-04-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75809'
+language: ca
+pgterms:marc905: 20250406094728guimer
+pgterms:marc906: '1917'
+pgterms:marc907: ES
+production_note: 'Edició digital: Joan Queralt Gil'
+publication_note: '  $aBarcelona :$bImprenta La Renaixensa, $c1917.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Jesús que torna : $b Drama en tres actes y en prosa'
+url: http://www.gutenberg.org/ebooks/75809
