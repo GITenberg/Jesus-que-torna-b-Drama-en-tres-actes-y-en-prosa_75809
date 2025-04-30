@@ -1,11 +1,16 @@
 _repo: Jesus-que-torna-b-Drama-en-tres-actes-y-en-prosa_75809
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75809-h/images/cover.jpg
 creator:
   author:
     agent_name: Guimerà, Àngel
     gutenberg_agent_id: '58155'
     url: http://www.gutenberg.org/2009/agents/58155
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75809#Jesus-que-torna-b-Drama-en-tres-actes-y-en-prosa
 gutenberg_issued: '2025-04-07'
 gutenberg_type: Text
 identifiers:
